@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/holoviz/holonote/commit/9928494bc2bd36f9261a19a19f97a69bf55f82e5",
       "git:hexsha": "9928494bc2bd36f9261a19a19f97a69bf55f82e5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/holoviz/holonote/commit/585ae9a9e24c153189fd71a4a70ad28b91025a35",
